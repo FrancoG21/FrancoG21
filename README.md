@@ -1,7 +1,7 @@
 ### Hi 👋💻, I'm Franco!
 I'm a fullstack developer who is passionate about making functional and good looking webs.
 
-![me](https://i.pinimg.com/564x/02/63/7a/02637a8d4b36894dca7dd8b965daec4a.jpg)
+![me](https://i.pinimg.com/564x/85/56/2d/85562d79ff5cd98affde0e96f9c5b4b4.jpg)
 
 ```js
   const franco = {
